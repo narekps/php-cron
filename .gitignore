@@ -7,4 +7,4 @@
 /phpunit.xml
 .vagrant
 Vagrantfile
-/composer.lock
+.phpunit.result.cache
